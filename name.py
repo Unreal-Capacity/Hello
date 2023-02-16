@@ -7,11 +7,11 @@ def renswap(S):
     print(L.swapcase())
     return()
 
-#inputed = input("Enter a Sentence: ")
-#renswap(inputed)
+inputed = input("Enter a Sentence: ")
+renswap(inputed)
 
-from prac import student
+#from prac import student
 
-student1 = student("Jim", "A.I.", "4.7", False)
+#student1 = student("Jim", "A.I.", "4.7", False)
 
-print(student1.name)
+#print(student1.name)
